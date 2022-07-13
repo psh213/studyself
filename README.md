@@ -1,0 +1,2 @@
+# studyself
+독학
